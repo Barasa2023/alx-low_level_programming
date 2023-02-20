@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc -c $CFILE
+export $CFILE = main.c
+gcc -c main.c -o main.o
