@@ -1,2 +1,2 @@
-# alx-low_level_programming
-This repository contains files for c programming introduction
+#Alx C programming.
+Doubly linked lists
